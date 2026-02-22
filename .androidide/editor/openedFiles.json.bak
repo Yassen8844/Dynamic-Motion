@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/CodeOnTheGoProjects/smart-edge-master/app/build.gradle",
+      "selection": {
+        "end": {
+          "column": 51,
+          "index": 1479,
+          "line": 48
+        },
+        "start": {
+          "column": 51,
+          "index": 1479,
+          "line": 48
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/CodeOnTheGoProjects/smart-edge-master/app/build.gradle"
+}
